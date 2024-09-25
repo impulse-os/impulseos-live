@@ -129,7 +129,9 @@ xfsprogs
 xl2tpd
 zsh
 
+archlinux-keyring
 gnome
+gnome-extra
 gparted
 networkmanager
 firefox
