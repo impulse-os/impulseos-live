@@ -4,7 +4,7 @@ iso_name="impulseos"
 iso_label="IMPULSE_$(date --date="@${SOURCE_DATE_EPOCH:-$(date +%s)}" +%Y%m)"
 iso_publisher="Impulse OS <https://impulseos.com>"
 iso_application="Impulse OS Live/Rescue DVD"
-iso_version="beta 1.2.0"
+iso_version="beta-1.2.0"
 install_dir="impulseos"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
