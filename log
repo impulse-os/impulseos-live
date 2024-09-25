@@ -1,0 +1,25 @@
+
+2024/09/25 23:57:22 ERROR : Local file system at /home/onkar/Documents/Projects/impulseos-live/impulseos-beta-1.2.2-x86_64.iso: error reading source root directory: directory not found
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         3.8s
+2024/09/25 23:57:22 ERROR : Attempt 1/3 failed with 1 errors and: directory not found
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         3.8sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         4.0s
+2024/09/25 23:57:22 ERROR : Local file system at /home/onkar/Documents/Projects/impulseos-live/impulseos-beta-1.2.2-x86_64.iso: error reading source root directory: directory not found
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         4.0s
+2024/09/25 23:57:22 ERROR : Attempt 2/3 failed with 1 errors and: directory not found
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         4.0s
+2024/09/25 23:57:23 ERROR : Local file system at /home/onkar/Documents/Projects/impulseos-live/impulseos-beta-1.2.2-x86_64.iso: error reading source root directory: directory not found
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Elapsed time:         4.5s
+2024/09/25 23:57:23 ERROR : Attempt 3/3 failed with 1 errors and: directory not found
+Transferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         4.5sTransferred:   	          0 B / 0 B, -, 0 B/s, ETA -
+Errors:                 1 (retrying may help)
+Elapsed time:         4.5s
