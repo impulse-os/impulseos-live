@@ -51,7 +51,7 @@ less
 lftp
 libfido2
 libusb-compat
-linux
+linux-zen
 linux-atm
 linux-firmware
 linux-firmware-marvell
@@ -134,3 +134,4 @@ gparted
 networkmanager
 firefox
 neovim
+tgpt
