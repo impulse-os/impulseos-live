@@ -1,0 +1,3 @@
+run_hook() {
+    echo "Welcome to Impulse OS beta build!"
+}
